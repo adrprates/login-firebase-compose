@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833818679713",
+    "project_id": "login-firebase-compose",
+    "storage_bucket": "login-firebase-compose.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833818679713:android:49c3d88ba33070d88dd3e0",
+        "android_client_info": {
+          "package_name": "com.dm.login_firebase_compose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrayQ-YKIMrcD5wurphruONgWHm4NaDnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
